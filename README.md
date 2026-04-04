@@ -15,7 +15,7 @@
 
 <img align="right" src="https://i.pinimg.com/736x/ed/dd/f1/edddf115bf96a1a0058cdaa92da62520.jpg" width="130" style="border-radius:12px; margin: 0 0 16px 24px;">
 
-<h3>João Victor COsta Batista (Endossin)</h3>
+<h3>João Victor Costa Batista (Endossin)</h3>
 
 **`Software Engineer · Backend-Focused · Systems Thinker`**
 

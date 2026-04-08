@@ -109,9 +109,6 @@ Docker      ████░░░░░░░░░  Aprendendo
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Endossin&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endossin&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
